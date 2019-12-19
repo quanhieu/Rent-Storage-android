@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID:"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tvStorage_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STORAGE TYPE:"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tvDimensions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DIMENSIONS:"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tvDate_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DATE AND TIME:"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tvStorage_feature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STORAGE FEATURE:"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tvMounth_rent_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MOUNTHLY RENT PRICE:"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tvReporter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="REPORTER:"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/tvNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NOTE:"
+        android:padding="5dp"/>
+</LinearLayout>

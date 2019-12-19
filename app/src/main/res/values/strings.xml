@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="title_home">ADD PAGE</string>
+    <string name="title_dashboard">LOAD PAGE</string>
+    <string name="title_notifications">VIBRATE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_update">Update</string>
+</resources>
